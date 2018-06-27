@@ -44,11 +44,11 @@
             android:max="10"
             android:id="@+id/formulario_nota"/>
 
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Salvar"
-            android:id="@+id/formulario_botao"/>
+        <!--<Button-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Salvar"-->
+            <!--android:id="@+id/formulario_botao"/>-->
     </LinearLayout>
 
 </ScrollView>
